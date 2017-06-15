@@ -1,4 +1,4 @@
-# Clef Core Values
+# Gazet Core Values
 
 ## Be better today than yesterday.
 
