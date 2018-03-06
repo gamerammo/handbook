@@ -1,5 +1,5 @@
 # Mission Statement
 
-## Our mission is to empower everyone to own their identity online.
+## Our mission is to empower everyone to own their identity online and earn a living doing what they love.
 
-We build a secure standard of identity for businesses to replace passwords, allowing users to have an authentic and personal relationship with the technology they use. Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our product.
+Gamer Ammo’s mission is to empower gamers and to be a critical resource for all participants in the gaming industry. We aim to achieve this by positioning ourselves at the intersection of news, content delivery, coaching services, and gaming finance. In the process, we will offer a powerful platform to a diverse community of users, nurture peak performance in competitive play, and bring gaming to the blockchain.

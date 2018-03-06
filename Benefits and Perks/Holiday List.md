@@ -1,4 +1,4 @@
-# Gazet Observed Holiday List
+# Gamer Ammo Observed Holiday List
 
 <table>
   <tr>

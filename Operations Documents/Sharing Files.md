@@ -1,10 +1,10 @@
-# Sharing Files at Gazet
+# Sharing Files at Gamer Ammo
 
 ## Base Directories
 
-At the base of every member of the Gazet team’s directory, there should be 6 directories:
+At the base of every member of the Gamer Ammo team’s directory, there should be 6 directories:
 
-1. **[Gazet Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Gazet, which anyone can comment on
+1. **[Gamer Ammo Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Gamer Ammo, which anyone can comment on
 
 2. **Active Projects** -- All project folders will be shared globally in this folder
 
@@ -12,7 +12,7 @@ At the base of every member of the Gazet team’s directory, there should be 6 d
 
 4. **Resources** -- common resources which will be shared across projects -- like logo design resources, press clippings, etc.
 
-5. **OKRs** -- everyone at Gazet’s objectives and key results.
+5. **OKRs** -- everyone at Gamer Ammo’s objectives and key results.
 
 6. **[Your Name]** -- every employee should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
 

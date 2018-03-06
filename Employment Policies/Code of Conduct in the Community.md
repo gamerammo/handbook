@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct applies to community members and Gazet team members in all Gazet communities online (including but not limited to IRC, support chat, the Gazet Community Slack group, Twitter, and Facebook), in the Gazet office, and at all events hosted by Gazet.
+This code of conduct applies to community members and Gamer Ammo team members in all Gamer Ammo communities online (including but not limited to IRC, support chat, the Gamer Ammo Community Slack group, Twitter, and Facebook), in the Gamer Ammo office, and at all events hosted by Gamer Ammo.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 

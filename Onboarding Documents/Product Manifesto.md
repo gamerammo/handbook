@@ -1,18 +1,18 @@
 # Product Manifesto
 
-Working on Gazet, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Gazet. Those metrics might include:
+Working on Gamer Ammo, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Gamer Ammo. Those metrics might include:
 
 * The level of security we are able to offer customers
 
 * The speed of each login
 
-* The ratio of time logged in with Gazet to time managing Gazet
+* The ratio of time logged in with Gamer Ammo to time managing Gamer Ammo
 
 * The number of taps between each login
 
-For the first two years of Gazet’s existence, we often found ourselves following our guts in the wrong direction on each of these metrics but were unable to articulate why. We looked at other solutions that out-performed us in each of these categories and worried about whether we were overlooking optimizations that would make Gazet a better product. We kept making decisions that felt right, but weren’t backed up by the core metrics we "should" have been measuring.
+For the first two years of Gamer Ammo’s existence, we often found ourselves following our guts in the wrong direction on each of these metrics but were unable to articulate why. We looked at other solutions that out-performed us in each of these categories and worried about whether we were overlooking optimizations that would make Gamer Ammo a better product. We kept making decisions that felt right, but weren’t backed up by the core metrics we "should" have been measuring.
 
-Even as we seemed to be working in the wrong direction, people were choosing Gazet over the other options and connecting with it in a way that was radically different. We discovered that while people *used* other options, they *loved* using Gazet.
+Even as we seemed to be working in the wrong direction, people were choosing Gamer Ammo over the other options and connecting with it in a way that was radically different. We discovered that while people *used* other options, they *loved* using Gamer Ammo.
 
 We came to realize that while each of those core metrics might map to a frustration with passwords and/or other existing ways of logging in to an app or service, none of them truly addressed the real pain people were experiencing.
 
@@ -28,8 +28,8 @@ Identity is something that’s fundamental to being human. And it’s because of
 
 The solution to the "password problem" isn’t faster logins or additional layers of security. Instead, we have to work to dismantle the negative, or shame-based, associations with identity by both empowering our users and delivering an experience they can understand and feel positively about.
 
-**At Gazet, our core product value is clarity.**
+**At Gamer Ammo, our core product value is clarity.**
 
-Prioritizing clarity means that Gazet will always be accessible and unscary for our users. It empowers them to feel in control of and protect their identity, as well as understand and engage with the concept of security online. Done with beauty, the experience of logging in with Gazet creates a sense of magic and wonder that is impossible to fake.
+Prioritizing clarity means that Gamer Ammo will always be accessible and unscary for our users. It empowers them to feel in control of and protect their identity, as well as understand and engage with the concept of security online. Done with beauty, the experience of logging in with Gamer Ammo creates a sense of magic and wonder that is impossible to fake.
 
-Clarity requires deep empathy and constant refinement. It does not always make Gazet faster or safer, but instead, has a positive impact on the way our users *feel*. This positive feeling is the key to our success, both as a team and a company, and it’s what we should strive for every time we ship something new.
+Clarity requires deep empathy and constant refinement. It does not always make Gamer Ammo faster or safer, but instead, has a positive impact on the way our users *feel*. This positive feeling is the key to our success, both as a team and a company, and it’s what we should strive for every time we ship something new.
